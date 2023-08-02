@@ -1,0 +1,4 @@
+yellow,blue,white,white,grey_one
+green,white,grey_five,white,grey_four
+grey_three,white,red,white,green
+grey_two,white,white,blue,yellow

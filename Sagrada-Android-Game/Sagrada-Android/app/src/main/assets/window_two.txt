@@ -1,0 +1,4 @@
+grey_three,grey_four,grey_one,grey_five,white
+white,grey_six,grey_two,white,yellow
+white,white,white,yellow,green
+grey_five,white,yellow,green,grey_six
